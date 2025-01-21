@@ -1,6 +1,6 @@
 
 
-# Bruno-svm - Analista de Dados em Formação
+# Bruno-svm - Analista de Dados 
 
 Bem-vindo ao meu repositório GitHub! Meu nome é Bruno-svm e sou um entusiasta em **análise de dados** e **ciência de dados** em busca de oportunidades para desenvolver minha carreira profissional nessa área fascinante.
 
